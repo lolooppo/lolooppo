@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Alaa ibrahim mohamed
 - 👀 I’m interested in computer science and competitive programming
 - 🌱 I’m currently learning c++ language
-- 💞️ I’m looking to collaborate on Big helpful project
+- 💞️ I’m looking to collaborate on a big helpful project
 - 📫 How to reach me https://www.linkedin.com/in/alaa-omran-391ba1251/
 
 <!---
