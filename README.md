@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Alaa ibrahim mohamed.
 - 👀 I’m interested in computer science, programming and competitive programming.
-- 🌱 I’m currently learning Ai
+- 🌱 I’m currently learning AI
 - 💞️ I’m looking to collaborate on a big helpful project
 - 📫 How to reach me https://www.linkedin.com/in/alaa-omran-391ba1251/
 
